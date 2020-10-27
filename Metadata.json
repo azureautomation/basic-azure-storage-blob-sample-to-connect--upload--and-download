@@ -1,7 +1,7 @@
 {
     "Author": "brentrossen",
     "ContentSize": 4373,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/basic-azure-storage-blob-sample-to-connect,-upload,-and-download/master/BasicBlobSample.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/basic-azure-storage-blob-sample-to-connect--upload--and-download/master/BasicBlobSample.ps1",
     "DownloadCount": 1742,
     "Id": "Basic-Azure-Storage-Blob-7ed84617",
     "IsFederated": true,
@@ -15,6 +15,6 @@
     "Summary": "This Azure Automation Runbook sets up a connection to an Azure subscription and Azure Storage Account using certificate based authentication. It then creates a local file, creates a blob container, and uploads that file into the container as a blob. Last it downlods the file an",
     "Title": "Basic Azure Storage Blob Sample to connect, upload, and download",
     "UpdatedDate": "2015-11-11T00:00:00",
-    "Url": "https://github.com/azureautomation/basic-azure-storage-blob-sample-to-connect,-upload,-and-download",
+    "Url": "https://github.com/azureautomation/basic-azure-storage-blob-sample-to-connect--upload--and-download",
     "UserTags": "Microsoft Azure, sample, Azure Automation"
 }
